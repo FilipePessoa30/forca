@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1641955581 source:c:\users\filipe\desktop\alura\linguagem c\aula\aula1.c
+	<stdio.h>
+
+1646116509 source:c:\users\filipe\desktop\alura\linguagem c\aula\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1642117991 source:c:\users\filipe\desktop\alura\linguagem c\aula\aula2.c
+
+1646116822 source:c:\users\filipe\desktop\alura\linguagem c\aula\forca.c
+	<stdio.h>
+
